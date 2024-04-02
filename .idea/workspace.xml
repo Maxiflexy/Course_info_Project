@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db11037f-5857-4036-98d2-962c87a82564" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-cli/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-cli/src/main/java/com/pluralsight/courseinfo/cli/CourseRetriever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-cli/src/main/java/com/pluralsight/courseinfo/cli/service/CourseRetrievalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-cli/src/main/java/com/pluralsight/courseinfo/cli/service/CourseStorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-cli/src/main/java/com/pluralsight/courseinfo/cli/service/PluralsightCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-cli/src/test/java/com/pluralsight/courseinfo/cli/service/CourseStorageServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-cli/src/test/java/com/pluralsight/courseinfo/cli/service/PluralsightCourseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-repository/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-repository/src/main/java/com/pluralsight/courseinfo/domain/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-repository/src/main/java/com/pluralsight/courseinfo/repository/CourseJdbcRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-repository/src/main/java/com/pluralsight/courseinfo/repository/CourseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-repository/src/main/java/com/pluralsight/courseinfo/repository/RepositoryException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-server/src/main/java/com/pluralsight/courseinfo/server/CourseResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-server/src/main/java/com/pluralsight/courseinfo/server/CourseServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info-server/src/main/resources/server.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2eEQKoH9xdFMqGlw5odFqLtgo9V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CourseRetriever (1).executor": "Run",
+    "Application.CourseRetriever.executor": "Run",
+    "Application.CourseServer.executor": "Run",
+    "JUnit.All in course-info.executor": "Run",
+    "JUnit.CourseStorageServiceTest.executor": "Run",
+    "JUnit.PluralsightCourseTest (1).executor": "Run",
+    "JUnit.PluralsightCourseTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/Classes/Gradle-Workshop/course-info",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "build.tools"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pluralsight.courseinfo.repository" />
+      <recent name="com.pluralsight.courseinfo.cli.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Classes\Gradle-Workshop\course-info" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Classes\Gradle-Workshop\course-info\course-info-cli" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.pluralsight.courseinfo.cli.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CourseServer">
+    <configuration name="CourseRetriever (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.courseinfo.cli.CourseRetriever" />
+      <module name="course-info-cli" />
+      <option name="PROGRAM_PARAMETERS" value="sander-mak" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.courseinfo.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.courseinfo.server.CourseServer" />
+      <module name="course-info-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.courseinfo.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in course-info" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="course-info" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseStorageServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="course-info-cli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.courseinfo.cli.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.courseinfo.cli.service" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.courseinfo.cli.service.CourseStorageServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PluralsightCourseTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="course-info-cli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.courseinfo.cli.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.courseinfo.cli.service" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.courseinfo.cli.service.PluralsightCourseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PluralsightCourseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="course-info" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.courseinfo.cli.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.courseinfo.cli.service" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.courseinfo.cli.service.PluralsightCourseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CourseServer" />
+        <item itemvalue="JUnit.CourseStorageServiceTest" />
+        <item itemvalue="JUnit.PluralsightCourseTest (1)" />
+        <item itemvalue="JUnit.PluralsightCourseTest" />
+        <item itemvalue="JUnit.All in course-info" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db11037f-5857-4036-98d2-962c87a82564" name="Changes" comment="" />
+      <created>1711467196556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711467196556</updated>
+    </task>
+    <servers />
+  </component>
+</project>
